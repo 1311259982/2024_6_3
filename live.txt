@@ -140,8 +140,8 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 
 重庆地方频道,#genre#
 重庆新闻,http://n1.dddmmh.space:8088/udp/225.0.4.188:7980 $重庆地方频道
-重庆新闻频道,https://sjlivecdn9.cbg.cn/202402081129/app_2/_definst_/ls_3.stream/chunklist.m3u8 $重庆地方频道
-重庆新闻频道,https://sjlivecdn.cbg.cn/202406031926/a5eae0e69dc43c003fe8799774948820/app_2/_definst_/ls_3.stream/chunklist.m3u8 $重庆地方频道
+重庆新闻,https://sjlivecdn9.cbg.cn/202402081129/app_2/_definst_/ls_3.stream/chunklist.m3u8 $重庆地方频道
+重庆新闻,https://sjlivecdn.cbg.cn/202406031926/a5eae0e69dc43c003fe8799774948820/app_2/_definst_/ls_3.stream/chunklist.m3u8 $重庆地方频道
 重庆社会与法,http://n1.dddmmh.space:8088/udp/225.0.4.190:7980 $重庆地方频道
 重庆少儿,http://n1.dddmmh.space:8088/udp/225.0.4.191:7980 $重庆地方频道
 重庆影视,http://n1.dddmmh.space:8088/udp/225.0.4.192:7980 $重庆地方频道
