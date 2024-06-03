@@ -76,6 +76,7 @@ CHC影迷电影,http://58.37.82.140:56789/udp/239.45.0.42:5140 $上海电信140
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002 $天津联通hssvm
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002 $天津联通hssvm
 CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002 $天津联通hssvm
+
 其他4K频道,#genre#
 咪咕体育4K,http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
 咪咕体育4K,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225655/index.m3u8
@@ -113,7 +114,6 @@ CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002 $天津联通hssv
 
 
 央视频道及新闻,#genre#
-
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV1,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000131
 CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
@@ -150,6 +150,107 @@ CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000494
+CCTV17,http://111.192.176.15:8012/rtp/239.3.1.151:8144 $北京联通15
+CCTV兵器科技,http://nas.tuyuannet.cn:8800/rtp/239.37.0.084:5540 $吉林电信tuyuannet
+CCTV第一剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.078:5540 $吉林电信tuyuannet
+CCTV电视指南,http://nas.tuyuannet.cn:8800/rtp/239.37.0.115:5540 $吉林电信tuyuannet
+CCTV风云剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.114:5540 $吉林电信tuyuannet
+CCTV风云音乐,http://nas.tuyuannet.cn:8800/rtp/239.37.0.081:5540 $吉林电信tuyuannet
+CCTV风云足球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.080:5540 $吉林电信tuyuannet
+CCTV高尔夫网球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.230:5540 $吉林电信tuyuannet
+CCTV怀旧剧场,http://nas.tuyuannet.cn:8800/rtp/239.37.0.082:5540 $吉林电信tuyuannet
+CCTV女性时尚,http://nas.tuyuannet.cn:8800/rtp/239.37.0.069:5540 $吉林电信tuyuannet
+CCTV世界地理,http://nas.tuyuannet.cn:8800/rtp/239.37.0.079:5540 $吉林电信tuyuannet
+CCTV央视台球,http://nas.tuyuannet.cn:8800/rtp/239.37.0.163:5540 $吉林电信tuyuannet
+CCTV文化精品,http://nas.tuyuannet.cn:8800/rtp/239.37.0.083:5540 $吉林电信tuyuannet
+CCTV兵器科技,http://iku.sunnyli.link:4144/udp/239.252.219.98:5140 $江西电信sunnyli
+CCTV第一剧场,http://iku.sunnyli.link:4144/udp/239.252.219.86:5140 $江西电信sunnyli
+CCTV电视指南,http://iku.sunnyli.link:4144/udp/239.252.219.97:5140 $江西电信sunnyli
+CCTV风云剧场,http://iku.sunnyli.link:4144/udp/239.252.219.89:5140 $江西电信sunnyli
+CCTV风云音乐,http://iku.sunnyli.link:4144/udp/239.252.219.87:5140 $江西电信sunnyli
+CCTV风云足球,http://iku.sunnyli.link:4144/udp/239.252.219.96:5140 $江西电信sunnyli
+CCTV高尔夫网球,http://iku.sunnyli.link:4144/udp/239.252.219.95:5140 $江西电信sunnyli
+CCTV怀旧剧场,http://iku.sunnyli.link:4144/udp/239.252.219.90:5140 $江西电信sunnyli
+CCTV女性时尚,http://iku.sunnyli.link:4144/udp/239.252.219.94:5140 $江西电信sunnyli
+CCTV世界地理,http://iku.sunnyli.link:4144/udp/239.252.219.93:5140 $江西电信sunnyli
+CCTV文化精品,http://iku.sunnyli.link:4144/udp/239.252.219.81:5140 $江西电信sunnyli
+CCTV央视台球,http://iku.sunnyli.link:4144/udp/239.252.219.80:5140 $江西电信sunnyli
+CCTV兵器科技,http://n1.dddmmh.space:8088/udp/225.0.4.223:7980 $重庆联通dddmmh
+CCTV风云剧场,http://n1.dddmmh.space:8088/udp/225.0.4.209:7980 $重庆联通dddmmh
+CCTV风云足球,http://n1.dddmmh.space:8088/udp/225.0.4.210:7980 $重庆联通dddmmh
+CCTV高尔夫网球,http://n1.dddmmh.space:8088/udp/225.0.4.211:7980 $重庆联通dddmmh
+CCTV怀旧剧场,http://n1.dddmmh.space:8088/udp/225.0.4.222:7980 $重庆联通dddmmh
+CCTV文化精品,http://n1.dddmmh.space:8088/udp/225.0.4.212:7980 $重庆联通dddmmh
+CCTV央视台球,http://n1.dddmmh.space:8088/udp/225.0.4.224:7980 $重庆联通dddmmh
+CCTV1,http://guany.myds.me:25852/rtp/233.50.201.118:5140 $浙江电信myds
+CCTV2,http://guany.myds.me:25852/rtp/233.50.201.119:5140 $浙江电信myds
+CCTV3,http://guany.myds.me:25852/rtp/233.50.201.196:5140 $浙江电信myds
+CCTV5,http://guany.myds.me:25852/rtp/233.50.201.197:5140 $浙江电信myds
+CCTV5+,http://guany.myds.me:25852/rtp/233.50.201.220:5140 $浙江电信myds
+CCTV6,http://guany.myds.me:25852/rtp/233.50.201.198:5140 $浙江电信myds
+CCTV7,http://guany.myds.me:25852/rtp/233.50.201.120:5140 $浙江电信myds
+CCTV8,http://guany.myds.me:25852/rtp/233.50.201.199:5140 $浙江电信myds
+CCTV9,http://guany.myds.me:25852/rtp/233.50.201.121:5140 $浙江电信myds
+CCTV10,http://guany.myds.me:25852/rtp/233.50.201.122:5140 $浙江电信myds
+CCTV12,http://guany.myds.me:25852/rtp/233.50.201.123:5140 $浙江电信myds
+CCTV13,http://guany.myds.me:25852/rtp/233.50.201.246:5140 $浙江电信myds
+CCTV14,http://guany.myds.me:25852/rtp/233.50.201.124:5140 $浙江电信myds
+CCTV16,http://guany.myds.me:25852/rtp/233.50.201.192:5140 $浙江电信myds
+CCTV164k,http://guany.myds.me:25852/rtp/233.50.201.63:5140 $浙江电信myds
+CCTV1,http://125.80.152.112:7788/rtp/235.254.198.51:1480 $重庆电信112
+CCTV1,http://125.80.152.112:7788/rtp/235.254.198.147:1866 $重庆电信112
+CCTV2,http://125.80.152.112:7788/rtp/235.254.198.52:1484 $重庆电信112
+CCTV3,http://125.80.152.112:7788/rtp/235.254.198.53:1488 $重庆电信112
+CCTV4,http://125.80.152.112:7788/rtp/235.254.198.183:7980 $重庆电信112
+CCTV5,http://125.80.152.112:7788/rtp/235.254.198.54:1492 $重庆电信112
+CCTV5+,http://125.80.152.112:7788/rtp/235.254.198.122:1764 $重庆电信112
+CCTV6,http://125.80.152.112:7788/rtp/235.254.198.55:1496 $重庆电信112
+CCTV7,http://125.80.152.112:7788/rtp/235.254.198.56:1500 $重庆电信112
+CCTV8,http://125.80.152.112:7788/rtp/235.254.198.57:1504 $重庆电信112
+CCTV9,http://125.80.152.112:7788/rtp/235.254.198.58:1508 $重庆电信112
+CCTV10,http://125.80.152.112:7788/rtp/235.254.198.59:1512 $重庆电信112
+CCTV12,http://125.80.152.112:7788/rtp/235.254.198.60:1516 $重庆电信112
+CCTV14,http://125.80.152.112:7788/rtp/235.254.198.61:1520 $重庆电信112
+CCTV1,http://n1.dddmmh.space:8088/udp/225.0.4.74:7980 $重庆联通dddmmh
+CCTV2,http://n1.dddmmh.space:8088/udp/225.0.4.132:7980 $重庆联通dddmmh
+CCTV3,http://n1.dddmmh.space:8088/udp/225.0.4.142:7980 $重庆联通dddmmh
+CCTV4,http://n1.dddmmh.space:8088/udp/225.0.4.176:7980 $重庆联通dddmmh
+CCTV5,http://n1.dddmmh.space:8088/udp/225.0.4.143:7980 $重庆联通dddmmh
+CCTV5+,http://n1.dddmmh.space:8088/udp/225.0.4.73:7980 $重庆联通dddmmh
+CCTV6,http://n1.dddmmh.space:8088/udp/225.0.4.144:7980 $重庆联通dddmmh
+CCTV7,http://n1.dddmmh.space:8088/udp/225.0.4.127:7980 $重庆联通dddmmh
+CCTV8,http://n1.dddmmh.space:8088/udp/225.0.4.137:7980 $重庆联通dddmmh
+CCTV9,http://n1.dddmmh.space:8088/udp/225.0.4.131:7980 $重庆联通dddmmh
+CCTV10,http://n1.dddmmh.space:8088/udp/225.0.4.130:7980 $重庆联通dddmmh
+CCTV11,http://n1.dddmmh.space:8088/udp/225.0.4.218:7980 $重庆联通dddmmh
+CCTV12,http://n1.dddmmh.space:8088/udp/225.0.4.129:7980 $重庆联通dddmmh
+CCTV13,http://n1.dddmmh.space:8088/udp/225.0.4.219:7980 $重庆联通dddmmh
+CCTV14,http://n1.dddmmh.space:8088/udp/225.0.4.128:7980 $重庆联通dddmmh
+CCTV15,http://n1.dddmmh.space:8088/udp/225.0.4.220:7980 $重庆联通dddmmh
+CCTV17,http://n1.dddmmh.space:8088/udp/225.0.4.179:7980 $重庆联通dddmmh
+CCTV4美洲,http://111.192.176.15:8012/rtp/239.3.1.214:4220 $北京联通15
+CCTV4欧洲,http://111.192.176.15:8012/rtp/239.3.1.213:4220 $北京联通15
+CGTNالعربية,http://111.192.176.15:8012/rtp/239.3.1.219:4220 $北京联通15
+CGTNРусский,http://111.192.176.15:8012/rtp/239.3.1.220:4220 $北京联通15
+CGTNFrançais,http://111.192.176.15:8012/rtp/239.3.1.218:4220 $北京联通15
+CGTNDocumentary,http://111.192.176.15:8012/rtp/239.3.1.216:4220 $北京联通15
+CGTNEspañol,http://111.192.176.15:8012/rtp/239.3.1.217:4220 $北京联通15
+CGTNEnglish,http://111.192.176.15:8012/rtp/239.3.1.215:4220 $北京联通15
+CCTV4欧洲,http://gs.jianghua.fun:8888/udp/239.253.43.120:5146 $广东电信jianghua
+CCTV4美洲,http://gs.jianghua.fun:8888/udp/239.253.43.121:5146 $广东电信jianghua
+CCTV4K,http://gs.jianghua.fun:8888/udp/239.77.1.180:5146 $广东电信jianghua
+CGTNDocumentary,http://gs.jianghua.fun:8888/udp/239.253.43.122:5146 $广东电信jianghua
+CGTNEnglish,http://gs.jianghua.fun:8888/udp/239.77.0.199:5146 $广东电信jianghua
+CGTNEspañol,http://gs.jianghua.fun:8888/udp/239.77.0.221:5146 $广东电信jianghua
+CGTNFrançais,http://gs.jianghua.fun:8888/udp/239.77.0.228:5146 $广东电信jianghua
+CGTNРусский,http://gs.jianghua.fun:8888/udp/239.253.43.201:5146 $广东电信jianghua
+CGTNالعربية,http://gs.jianghua.fun:8888/udp/239.253.43.200:5146 $广东电信jianghua
+CGTNEnglish,http://mail.petzhu.top:7000/rtp/239.254.200.12:8056 $河北电信petzhu
+CGTNDocumentary,http://mail.petzhu.top:7000/rtp/239.254.201.208:4220 $河北电信petzhu
+CGTNEspañol,http://mail.petzhu.top:7000/rtp/239.254.201.209:4220 $河北电信petzhu
+CGTNFrançais,http://mail.petzhu.top:7000/rtp/239.254.201.210:4220 $河北电信petzhu
+CGTNالعربية,http://mail.petzhu.top:7000/rtp/239.254.201.211:4220 $河北电信petzhu
+CGTNРусский,http://mail.petzhu.top:7000/rtp/239.254.201.212:4220 $河北电信petzhu
 CGTN,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 CGTN纪录,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000528
