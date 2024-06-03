@@ -48,35 +48,6 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV6.超清,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8.超清,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 
-电影,#genre#
-CHC影迷电影,http://gs.jianghua.fun:8888/udp/239.77.0.27:5146 $广东电信
-CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088 $湖北电信
-CHC动作电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094 $湖北电信
-CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100 $湖北电信
-CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540 $吉林电信
-CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540 $吉林电信
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540 $吉林电信
-CHC高清电影,http://iku.sunnyli.link:4144/udp/239.252.219.83:5140 $江西电信sunnyli
-CHC家庭影院,http://iku.sunnyli.link:4144/udp/239.252.219.84:5140 $江西电信sunnyli
-CHC动作电影,http://iku.sunnyli.link:4144/udp/239.252.219.85:5140 $江西电信sunnyli
-CHC动作电影,http://home.huaz.site:4000/udp/239.21.2.128:5002 $山东电信huaz
-CHC家庭影院,http://home.huaz.site:4000/udp/239.21.2.126:5002 $山东电信huaz
-CHC影迷电影,http://home.huaz.site:4000/udp/239.21.2.127:5002 $山东电信huaz
-CHC动作电影,http://ssrs2004.win:8888/rtp/239.112.205.207:5140 $陕西电信ssrs2004
-CHC高清电影,http://ssrs2004.win:8888/rtp/239.112.205.206:5140 $陕西电信ssrs2004
-CHC家庭影院,http://ssrs2004.win:8888/rtp/239.112.205.205:5140 $陕西电信ssrs2004
-CHC动作电影,http://101.83.74.79:8686/udp/239.45.0.41:5140 $上海电信79
-CHC家庭影院,http://101.83.74.79:8686/udp/239.45.0.40:5140 $上海电信79
-CHC家庭影院,http://101.83.74.79:8686/udp/239.45.1.22:5140 $上海电信79
-CHC影迷电影,http://101.83.74.79:8686/udp/239.45.0.42:5140 $上海电信79
-CHC动作电影,http://58.37.82.140:56789/udp/239.45.0.41:5140 $上海电信140
-CHC家庭影院,http://58.37.82.140:56789/udp/239.45.0.40:5140 $上海电信140
-CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140 $上海电信140
-CHC影迷电影,http://58.37.82.140:56789/udp/239.45.0.42:5140 $上海电信140
-CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002 $天津联通hssvm
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002 $天津联通hssvm
-CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002 $天津联通hssvm
-
 其他4K频道,#genre#
 咪咕体育4K,http://php.jdshipin.com:8880/itv6.php?cid=FifastbLive&id=3000000010000005180
 咪咕体育4K,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225655/index.m3u8
@@ -608,6 +579,33 @@ BTV影视,https://iptv.luas.edu.cn/liverespath/d68ca2a45a66f1289325852228ee74897
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+CHC影迷电影,http://gs.jianghua.fun:8888/udp/239.77.0.27:5146 $广东电信
+CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088 $湖北电信
+CHC动作电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094 $湖北电信
+CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100 $湖北电信
+CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540 $吉林电信
+CHC高清电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540 $吉林电信
+CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540 $吉林电信
+CHC高清电影,http://iku.sunnyli.link:4144/udp/239.252.219.83:5140 $江西电信sunnyli
+CHC家庭影院,http://iku.sunnyli.link:4144/udp/239.252.219.84:5140 $江西电信sunnyli
+CHC动作电影,http://iku.sunnyli.link:4144/udp/239.252.219.85:5140 $江西电信sunnyli
+CHC动作电影,http://home.huaz.site:4000/udp/239.21.2.128:5002 $山东电信huaz
+CHC家庭影院,http://home.huaz.site:4000/udp/239.21.2.126:5002 $山东电信huaz
+CHC影迷电影,http://home.huaz.site:4000/udp/239.21.2.127:5002 $山东电信huaz
+CHC动作电影,http://ssrs2004.win:8888/rtp/239.112.205.207:5140 $陕西电信ssrs2004
+CHC高清电影,http://ssrs2004.win:8888/rtp/239.112.205.206:5140 $陕西电信ssrs2004
+CHC家庭影院,http://ssrs2004.win:8888/rtp/239.112.205.205:5140 $陕西电信ssrs2004
+CHC动作电影,http://101.83.74.79:8686/udp/239.45.0.41:5140 $上海电信79
+CHC家庭影院,http://101.83.74.79:8686/udp/239.45.0.40:5140 $上海电信79
+CHC家庭影院,http://101.83.74.79:8686/udp/239.45.1.22:5140 $上海电信79
+CHC影迷电影,http://101.83.74.79:8686/udp/239.45.0.42:5140 $上海电信79
+CHC动作电影,http://58.37.82.140:56789/udp/239.45.0.41:5140 $上海电信140
+CHC家庭影院,http://58.37.82.140:56789/udp/239.45.0.40:5140 $上海电信140
+CHC家庭影院,http://58.37.82.140:56789/udp/239.45.1.22:5140 $上海电信140
+CHC影迷电影,http://58.37.82.140:56789/udp/239.45.0.42:5140 $上海电信140
+CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002 $天津联通hssvm
+CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002 $天津联通hssvm
+CHC影迷电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002 $天津联通hssvm
 都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
 乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
