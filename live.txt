@@ -23,6 +23,16 @@
 重庆新农村,http://125.80.152.112:7788/rtp/235.254.198.186:7980 $电信线路
 重广融媒,http://125.80.152.112:7788/rtp/235.254.196.218:1146 $电信线路
 开州综合,http://125.80.152.112:7788/rtp/235.254.198.145:1870 $电信线路
+重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
+重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
+重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
+重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
+重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
+重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
+重庆汽摩,https://live.mxdyeah.top/live.php?id=cqcarSD
+重庆移动,https://live.mxdyeah.top/live.php?id=mryyHD
 
 CCTV,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
