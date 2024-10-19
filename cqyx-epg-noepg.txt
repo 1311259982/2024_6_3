@@ -5,6 +5,7 @@
 重庆影视高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqyingshiHD
 重庆影视高清(NO EPG),http://n1.dddmmh.space:8088/udp/225.0.4.192:7980 $联通
 重庆社会与法高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆社会与法高清(NO EPG),http://27.10.76.212:8004/udp/225.0.4.190:7980
 重庆社会与法高清(NO EPG),http://n1.dddmmh.space:8088/udp/225.0.4.190:7980 $联通
 重庆时尚生活高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqssgwHD
 重庆文体娱乐高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqwtylHD
