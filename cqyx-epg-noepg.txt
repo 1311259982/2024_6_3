@@ -1,5 +1,6 @@
 重庆,#genre#
 重庆新闻高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆新闻高清(NO EPG),http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/5.m3u8
 重庆新闻高清(NO EPG),http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 重庆新闻高清(NO EPG),http://n1.dddmmh.space:8088/udp/225.0.4.188:7980 $联通
 重庆影视高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqyingshiHD
