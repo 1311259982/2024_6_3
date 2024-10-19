@@ -1,5 +1,6 @@
 重庆,#genre#
 重庆新闻高清(NO EPG),https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆新闻高清(NO EPG),http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000001096/1.m3u8
 重庆新闻高清(NO EPG),http://n1.dddmmh.space:8088/udp/225.0.4.188:7980 $联通
 重庆影视高清(NO EPG),https://live.mxdyeah.top/live.php?id=cqyingshiHD
 重庆影视高清(NO EPG),http://n1.dddmmh.space:8088/udp/225.0.4.192:7980 $联通
@@ -19,10 +20,12 @@
 央视,#genre#
 CCTV1,https://live.mxdyeah.top/live.php?id=cctv1HD
 CCTV2,https://live.mxdyeah.top/live.php?id=cctv2HD
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225588/index.m3u8
 CCTV3,https://live.mxdyeah.top/live.php?id=cctv3HD
 CCTV4,https://live.mxdyeah.top/live.php?id=cctv4HD
 CCTV5,https://live.mxdyeah.top/live.php?id=cctv5HD
 CCTV5+,https://live.mxdyeah.top/live.php?id=cctv5SportHD
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225603/index.m3u8
 CCTV6,https://live.mxdyeah.top/live.php?id=cctv6HD
 CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
 CCTV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
@@ -31,6 +34,7 @@ CCTV8,https://live.mxdyeah.top/live.php?id=cctv8HD
 CCTV9,https://live.mxdyeah.top/live.php?id=cctv9HD
 CCTV10,https://live.mxdyeah.top/live.php?id=cctv10HD
 CCTV11,https://live.mxdyeah.top/live.php?id=cctv11HD
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225597/index.m3u8
 CCTV12,https://live.mxdyeah.top/live.php?id=cctv12HD
 CCTV13,https://live.mxdyeah.top/live.php?id=CCTVNewsHD
 CCTV13,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8 $hainan-5e00-1e
@@ -41,6 +45,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
 CCTV13,http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000516
 CCTV14,https://live.mxdyeah.top/live.php?id=cctvseHD
 CCTV15,https://live.mxdyeah.top/live.php?id=cctv15HD
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225601/index.m3u8
 CCTV16,https://live.mxdyeah.top/live.php?id=cctv16HD
 CCTV17,https://live.mxdyeah.top/live.php?id=cctv17HD
 CGTN,https://live.mxdyeah.top/live.php?id=cgtnSD
@@ -63,7 +68,9 @@ CGTN纪录[1920x1080],http://php.jdshipin.com:8880/TVOD/hnyd.php?id=000000010000
 
 卫视,#genre#
 浙江卫视,https://live.mxdyeah.top/live.php?id=zhejiangHD
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225612/index.m3u8
 江苏卫视,https://live.mxdyeah.top/live.php?id=jiangsuHD
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225613/index.m3u8
 北京卫视,https://live.mxdyeah.top/live.php?id=beijingHD
 东方卫视,https://live.mxdyeah.top/live.php?id=shanghaiHD
 安徽卫视,https://live.mxdyeah.top/live.php?id=anhuiSD
@@ -71,16 +78,20 @@ CGTN纪录[1920x1080],http://php.jdshipin.com:8880/TVOD/hnyd.php?id=000000010000
 广东卫视,https://live.mxdyeah.top/live.php?id=guangdongHD
 深圳卫视,https://live.mxdyeah.top/live.php?id=shenzhenHD
 辽宁卫视,https://live.mxdyeah.top/live.php?id=liaoningHD
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225619/index.m3u8
 海南卫视,https://live.mxdyeah.top/live.php?id=hainanSD
 天津卫视,https://live.mxdyeah.top/live.php?id=tianjinHD
 重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225618/index.m3u8
 东南卫视,https://live.mxdyeah.top/live.php?id=dongnanHD
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225620/index.m3u8
 广西卫视,https://live.mxdyeah.top/live.php?id=guangxiHD
 贵州卫视,https://live.mxdyeah.top/live.php?id=guizhouHD
 河北卫视,https://live.mxdyeah.top/live.php?id=hebeiSD
 黑龙江卫视,https://live.mxdyeah.top/live.php?id=heilongjiangHD
 河南卫视,https://live.mxdyeah.top/live.php?id=henanHD
 湖北卫视,https://live.mxdyeah.top/live.php?id=hubeiSD
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/223/3221225627/index.m3u8
 湖北影视[1920x1080],http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKU1xiiKGJYFBZK9RpEkaggogtHJZW6nJQqLppbEYE%2BqJ9kJW%2FMvKldfS2dCii9VSI
 江西卫视,https://live.mxdyeah.top/live.php?id=jiangxiHD
 吉林卫视,https://live.mxdyeah.top/live.php?id=jilinHD
