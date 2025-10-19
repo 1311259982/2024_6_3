@@ -17,6 +17,7 @@ CCTV14少儿,http://192.168.20.4:80/iptv.php?id=cctv14
 CCTV15音乐,http://192.168.20.4:80/iptv.php?id=cctv15
 CCTV16奥林匹克,http://192.168.20.4:80/iptv.php?id=cctv16
 CCTV16奥林匹克4K,http://192.168.20.4:80/iptv.php?id=cctv16_4k
+CCTV-4K,http://192.168.20.4:80/iptv.php?id=cctv4k
 CCTV17农业农村,http://192.168.20.4:80/iptv.php?id=cctv17
 CCTV兵器科技,http://192.168.20.4:80/iptv.php?id=bqkj
 CCTV第一剧场,http://192.168.20.4:80/iptv.php?id=dyjc
@@ -44,6 +45,7 @@ CGTN,http://192.168.20.4:80/iptv.php?id=cgtn
 重庆时尚生活,http://192.168.20.4:80/iptv.php?id=cqsssh
 重庆新农村,http://192.168.20.4:80/iptv.php?id=cqxnc
 重庆社会与法,http://192.168.20.4:80/iptv.php?id=cqshyf
+重庆红岩文化,http://192.168.20.4:80/iptv.php?id=cqhywh
 重庆移动,http://192.168.20.4:80/iptv.php?id=cqyd
 重庆汽摩,http://192.168.20.4:80/iptv.php?id=cqqm
 重广融媒,http://192.168.20.4:80/iptv.php?id=cgrm
@@ -142,4 +144,5 @@ CHC家庭影院,http://192.168.20.4:80/iptv.php?id=chcjt
 天元围棋,http://192.168.20.4:80/iptv.php?id=tywq
 摄影频道,http://192.168.20.4:80/iptv.php?id=sypd
 求索纪录,http://192.168.20.4:80/iptv.php?id=qsjl
+
 
